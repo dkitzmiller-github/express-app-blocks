@@ -1,0 +1,28 @@
+
+body {
+    -webkit-background-size: inherit;
+    background-size: inherit;
+    background-image: url('stars.png');
+    margin:100px;
+}
+
+.div-block {
+    background-color: aliceblue;
+    opacity: 0.5;
+    width: 300px;
+    max-width: 300px;
+    margin-left: 0px;
+    margin-top: 40px;
+    padding: 10px 20px;
+}
+
+input[type=text] {
+    padding: 10px 10px;
+    margin: 4px 0px;
+    background-color: #FFFFFF !important;
+}
+
+input[type=submit] {
+    padding: 10px 10px;
+    width: 100px;
+}
